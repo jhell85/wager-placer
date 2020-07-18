@@ -18,7 +18,14 @@ A bet is created by a user known as the Drafter, they send the bet to a Recipien
 
 Once a bet has been agreed upon the bet will show up in all involved user's dashboards under Open Bets section.
 
-When all parameters of a bet have been fulfilled a notification will be sent to all parties involved that the bet has been satisfied and 
+When all parameters of a bet have been fulfilled a notification will be sent to all parties involved that the bet has been satisfied and show the results of the bet 
+
+## **Wager Placer will not be a facilitator of funds only documentation for bets / wagers**
+
+if you are the loser of the bet you will be notified stating you have loss the bet you placed with {other bet participant} and provide links to pay their debt via PayPal Venmo ect.
+
+if you are the winner of the bet you will be notified stating you have won the bet you placed with {other bet participant}
+
 
 
 
